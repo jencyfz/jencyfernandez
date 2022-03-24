@@ -1,0 +1,147 @@
+body{	
+	background-image: url(https://cdn.idevie.com/wp-content/uploads/2015/02/2c408_tutorials_6.jpg);
+	background-size: 20%;
+
+}
+
+img, figcaption{
+	text-align: center;
+	float: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#bottom_right img{ 
+	position: fixed;
+	z-index: 1;
+	right: 7px;
+	bottom: 7px;
+	opacity: 60%;
+	width: 8%;
+	height: auto;
+}
+
+.quote{
+	border-radius: 20px;
+	background-color:  #ed750a;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	padding: 2%;
+	text-align: center;
+	font-size: 130%;
+}
+
+.quote q{
+	color: #1a95ef;
+	text-shadow: 2px 2px 5px black;
+	font-family: 'Superman', Cursive;
+}
+
+.quote .super{ 
+	margin-left: 80%;
+	color: #0a8ded;
+	text-shadow: 2px 2px 5px #000000;
+	font-family: "Franklin Gothic", "Arial Bold";
+}
+
+
+.bmcc{
+	margin-top: 100px;
+	text-align: center;
+	font-size: 110%;
+}
+
+.bmcc h3{
+	font-size: 250%;
+	color: #b85700;
+	text-shadow: 
+	0px 0px 0 #899CD5,
+	1px 1px 0 #8194CD,
+	2px 2px 0 #788BC4,
+	3px 3px 0 #6F82BB,
+	4px 4px 0 #677AB3,
+	5px 5px 0 #5E71AA,
+	6px 6px 0 #5568A1,
+	7px 7px 0 #4C5F98,
+	8px 8px 0 #445790, 
+	9px 9px 0 #3B4E87, 
+	10px 10px 0 #32457E, 
+	11px 11px 0 #2A3D76, 
+	12px 12px 0 #21346D;
+}
+
+.etaVaina{
+	margin-top: 100px;
+	text-align: center;
+	font-size: 110%;
+}
+
+.etaVaina h3{
+	font-size: 250%;
+	color: #FFED0C; 
+	text-shadow:
+    0 1px 0px #378ab4,
+    1px 0 0px #5dabcd,
+    1px 2px 1px #378ab4,
+    2px 1px 1px #5dabcd,
+    2px 3px 2px #378ab4,
+    3px 2px 2px #5dabcd,
+    3px 4px 2px #378ab4,
+    4px 3px 3px #5dabcd,
+    4px 5px 3px #378ab4,
+    5px 4px 2px #5dabcd,
+    5px 6px 2px #378ab4,
+    6px 5px 2px #5dabcd,
+    6px 7px 1px #378ab4,
+    7px 6px 1px #5dabcd,
+    7px 8px 0px #378ab4,
+    8px 7px 0px #5dabcd;
+}
+#table table{
+	border-collapse: collapse;
+	background-color: #e3650e;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+th, td{
+	border: 2px solid black;
+	width: 10%;
+	padding: 1%;
+	text-align: center
+}
+
+#table th{
+	background-color: #CE605F;
+	color: #290000;
+}
+
+#table td:hover{
+	background-color: #44d2f5;
+}
+
+.etaVaina img{
+	height: 550px;
+	width: auto;
+
+
+
+#university{
+	margin-top: 150px;
+	text-align: center;
+	font-size: 150%;
+}
+
+a:link{
+	color: #DD4132;
+}
+
+a:visited{
+	color: #DD4132;
+}
+
+a:hover{
+	color: #6D12EC;
+}

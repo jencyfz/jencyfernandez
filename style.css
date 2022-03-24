@@ -1,0 +1,134 @@
+body{	
+	background-image: url(https://cdn.idevie.com/wp-content/uploads/2015/02/2c408_tutorials_6.jpg);
+	background-size: 15%;
+
+}
+
+img, figcaption{
+	text-align: center;
+	float: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#bottom_right img{ 
+	position: fixed;
+	z-index: 1;
+	right: 7px;
+	bottom: 7px;
+	opacity: 60%;
+	width: 8%;
+	height: auto;
+}
+
+.quote{
+	border-radius: 20px;
+	background-color:  #0852d3;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	padding: 2%;
+	text-align: center;
+	font-size: 130%;
+}
+
+.quote q{
+	color: #f10909;
+	text-shadow: 2px 2px 5px black;
+	font-family: 'Superman', sans-serif;
+}
+
+.quote .super{ 
+	margin-left: 80%;
+	color: #998929;
+	text-shadow: 2px 2px 5px #db0202;
+	font-family: "Franklin Gothic", "Arial Bold";
+}
+
+.intro{
+	text-align: center;
+	font-size: 110%;
+}
+
+.intro h1{
+	font-size: 250%;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	color: #8b0909;
+	text-shadow: 0 0 50px #FF0000, 0 0 10px #0000FF;
+}
+
+.intro img{
+	height: 550px;
+	width: auto;
+}
+
+
+.music{
+	margin-top: 100px;
+	text-align: center;
+	font-size: 110%;
+}
+
+.music h3{
+	font-size: 250%;
+	color: #4BF0BB;
+	text-shadow: 
+	0px 0px 0 #899CD5,
+	1px 1px 0 #8194CD,
+	2px 2px 0 #788BC4,
+	3px 3px 0 #6F82BB,
+	4px 4px 0 #677AB3,
+	5px 5px 0 #5E71AA,
+	6px 6px 0 #5568A1,
+	7px 7px 0 #4C5F98,
+	8px 8px 0 #445790, 
+	9px 9px 0 #3B4E87, 
+	10px 10px 0 #32457E, 
+	11px 11px 0 #2A3D76, 
+	12px 12px 0 #21346D;
+}
+
+
+.music{
+	text-align: center;
+	font-size: 110%;
+}
+
+.music h3{
+	font-size: 270%;
+	text-shadow: 4px 3px 0px #8B176F;
+}
+
+#music_table table{
+	border-collapse: collapse;
+	background-color: #610287;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+#music_table td:hover{
+	background-color: #0da8e5;
+}
+
+#music_table a:hover{
+	color: #FFED0C;
+}
+
+#university{
+	margin-top: 150px;
+	text-align: center;
+	font-size: 150%;
+}
+
+a:link{
+	color: #DD4132;
+}
+
+a:visited{
+	color: #DD4132;
+}
+
+a:hover{
+	color: #6D12EC;
+}
